@@ -1,5 +1,5 @@
 use bevy::prelude::*;
-use bevy_health_bar::prelude::*;
+use bevy_stat_bars::prelude::*;
 
 #[derive(Component)]
 pub struct Bar1;

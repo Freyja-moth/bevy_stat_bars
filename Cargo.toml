@@ -1,5 +1,5 @@
 [package]
-name = "bevy_health_bar"
+name = "bevy_stat_bars"
 version = "0.1.0"
 edition = "2021"
 
