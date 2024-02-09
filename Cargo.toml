@@ -1,0 +1,12 @@
+[package]
+name = "bevy_health_bar"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.12.1"
+itertools = "0.12.1"
+lerp = "0.5.0"
+splines = "4.3.1"
